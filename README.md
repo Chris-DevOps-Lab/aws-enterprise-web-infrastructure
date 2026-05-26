@@ -48,3 +48,8 @@ The environment includes:
 - CloudWatch monitoring
 - S3 storage
 - Auto Scaling configuration
+
+## Architecture Diagram
+<img width="1536" height="1024" alt="architecture-diagram" src="https://github.com/user-attachments/assets/c2ff583d-e8e5-4da5-abb8-d167f274df34" />
+
+

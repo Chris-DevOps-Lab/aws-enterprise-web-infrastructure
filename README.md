@@ -52,7 +52,7 @@ The environment includes:
 ## Architecture Diagram
 ![Architecture](architecture-diagram.png)
 
-## Architecture Should Include
+## Architecture Include
 Internet
    ↓
 Application Load Balancer
@@ -81,3 +81,35 @@ S3
 - S3
 - Auto Scaling
 
+## Features Section
+
+- Infrastructure-as-Code using Terraform
+- Modular Terraform architecture
+- Secure network segmentation
+- Cloud monitoring and alerting
+- IAM least privilege access
+- Automated deployment scripts
+
+## Deployment Steps
+
+1. Configure AWS CLI
+2. Initialize Terraform
+
+terraform init
+
+3. Validate configuration
+
+terraform validate
+
+4. Deploy infrastructure
+
+terraform apply
+
+## Screenshots
+
+EC2 dashboard
+CloudWatch
+running website
+Terraform apply
+VPC
+security groups

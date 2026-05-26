@@ -1,7 +1,9 @@
 # aws-enterprise-web-infrastructure
 Enterprise-grade AWS web infrastructure deployed using Terraform with VPC, EC2, ALB, IAM, CloudWatch, and secure networking architecture.
 
-Project Structure
+## Project Structure
+
+```bash
 aws-enterprise-web-infrastructure/
 │
 ├── README.md
@@ -34,3 +36,4 @@ aws-enterprise-web-infrastructure/
 │
 └── docs/
     └── deployment-guide.md
+```

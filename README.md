@@ -52,7 +52,7 @@ The environment includes:
 ## Architecture Diagram
 ![Architecture](architecture-diagram.png)
 
-Architecture Should Include
+## Architecture Should Include
 Internet
    ↓
 Application Load Balancer
@@ -64,11 +64,20 @@ Private Subnet
 Database
 
 Plus:
-
 NAT Gateway
 IAM
 CloudWatch
 S3
 
-
+## Technologies Used
+- AWS
+- Terraform
+- Linux
+- Nginx
+- CloudWatch
+- IAM
+- VPC
+- EC2
+- S3
+- Auto Scaling
 

@@ -105,11 +105,3 @@ terraform validate
 
 terraform apply
 
-## Screenshots
-
-EC2 dashboard
-CloudWatch
-running website
-Terraform apply
-VPC
-security groups

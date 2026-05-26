@@ -37,3 +37,14 @@ aws-enterprise-web-infrastructure/
 └── docs/
     └── deployment-guide.md
 ```
+## Project Description
+This project demonstrates the deployment of a secure and scalable AWS web infrastructure using Terraform Infrastructure-as-Code principles.
+
+The environment includes:
+- VPC with public/private subnets
+- EC2 web servers
+- Application Load Balancer
+- IAM roles and security groups
+- CloudWatch monitoring
+- S3 storage
+- Auto Scaling configuration

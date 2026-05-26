@@ -52,5 +52,23 @@ The environment includes:
 ## Architecture Diagram
 ![Architecture](architecture-diagram.png)
 
+Architecture Should Include
+Internet
+   ↓
+Application Load Balancer
+   ↓
+EC2 Instances
+   ↓
+Private Subnet
+   ↓
+Database
+
+Plus:
+
+NAT Gateway
+IAM
+CloudWatch
+S3
+
 
 
